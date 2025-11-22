@@ -3,3 +3,6 @@ yfinance
 numpy
 pandas
 altair
+datetime
+io
+zipfile
